@@ -1,0 +1,19 @@
+.header .logo img{
+    height: 6rem;
+}
+
+.home{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background:url(../images/bg_1.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.home .content h3{
+    font-size: 2rem;
+    text-transform: uppercase;
+    color:#fff;
+}
+
